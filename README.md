@@ -1,6 +1,8 @@
 # Projeto_de_Redes
 Projeto de Redes da Empresa SuperTech
-
+ Criação de estrutura de rede de computadores da Empresa Super Tech, utilizando o programa Cisco Packet Tracer.
+- Criar um relatório no final da atividade. 
+Você deverá:
 Utilizando o CISCO PACKET TRACER você vai criar a rede lógica com as seguintes informações: 
 A empresa Super Tech, precisa criar a estrutura de sua rede de computadores, de maneira que atenda as seguintes 
 necessidades.
